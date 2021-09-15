@@ -10,3 +10,27 @@
 .myAddBtn:active{
     background-color: #d908ec;
 }
+.myDeleteBtn{
+    margin: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ad0000;
+    color: white;
+    font-weight: bold;
+}
+.myDeleteBtn:active{
+    background-color: #ff0404;
+}
+.myEditBtn{
+    margin: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #046d04;
+    color: white;
+    font-weight: bold;
+}
+.myEditBtn:active{
+    background-color: #00ff00;
+}

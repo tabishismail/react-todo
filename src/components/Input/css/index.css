@@ -3,7 +3,7 @@
     border-radius: 5px;
     width: 60%;
     border: none;
-    margin: 0 auto;
+margin-bottom: 10px;
 }
 .input:focus{
     outline: none;    

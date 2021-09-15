@@ -4,9 +4,9 @@ background: #ae1bbb;
 box-shadow:  5px 5px 10px #4e0c54,
              -5px -5px 10px #ff2aff;
     width: 80%;
-    height: 500px;
     margin: 0 auto;
     padding: 10px;   
+    text-align: center;
 
 }
 .heading{
@@ -21,8 +21,8 @@ box-shadow:  5px 5px 10px #4e0c54,
     box-shadow:  -5px -5px 10px #4e0c54,
              5px 5px 10px #ff2aff;
              width: 80%;
-    height: 300px;
-    margin: 0 auto;
-    text-align: center;
+    margin: 10px auto;
+    text-align: left;
+    color: white;
     padding: 20px; 
 }
