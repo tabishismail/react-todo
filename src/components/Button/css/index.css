@@ -1,0 +1,12 @@
+.myAddBtn{
+    margin: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4b0352;
+    color: white;
+    font-weight: bold;
+}
+.myAddBtn:active{
+    background-color: #d908ec;
+}
